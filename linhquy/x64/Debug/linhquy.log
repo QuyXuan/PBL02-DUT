@@ -1,0 +1,29 @@
+﻿  DT_phong.cpp
+  DT_thue_tra.cpp
+  Hethong.cpp
+  QL_thue_tra.cpp
+C:\Users\ADMIN\source\repos\linhquy\linhquy\QL_thue_tra.cpp(439,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\linhquy\linhquy\QL_thue_tra.cpp(493,6): warning C4101: 'v_stt': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\QL_thue_tra.cpp(495,9): warning C4101: 'v_ngaythue': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\QL_thue_tra.cpp(495,26): warning C4101: 'v_ngaytra': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\QL_thue_tra.cpp(569,9): warning C4101: 'v_ngaysinh': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\QL_thue_tra.cpp(567,6): warning C4101: 'v_stt': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\QL_thue_tra.cpp(674,7): warning C4101: 'c': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\QL_thue_tra.cpp(661,6): warning C4101: 'v_stt': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\QL_thue_tra.cpp(661,18): warning C4101: 'v_nam_xb': unreferenced local variable
+  Ql_khachhang.cpp
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_khachhang.cpp(21,10): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_khachhang.cpp(62,9): warning C4101: 't_date': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_khachhang.cpp(206,9): warning C4101: 'v_ngaysinh': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_khachhang.cpp(204,6): warning C4101: 'v_stt': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_khachhang.cpp(267,10): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_khachhang.cpp(397,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_khachhang.cpp(471,10): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_khachhang.cpp(646,10): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+  Ql_phong.cpp
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_phong.cpp(245,6): warning C4101: 'v_stt': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_phong.cpp(245,18): warning C4101: 'v_nam_xb': unreferenced local variable
+C:\Users\ADMIN\source\repos\linhquy\linhquy\Ql_phong.cpp(462,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  linhquy.vcxproj -> C:\Users\ADMIN\source\repos\linhquy\x64\Debug\linhquy.exe

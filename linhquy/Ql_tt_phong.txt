@@ -1,0 +1,13 @@
+MP001 ;  P101 ;  Don ;  300 ;  2021 ;  OK ; Tang 1 ; 
+MP002 ;  P002 ;  Don ;  300 ;  2022 ;  OK ;  Tang 1 ; 
+MP003 ;  P003 ;  Don ;  300 ;  2022 ;  BUSY ;  Tang 2 ; 
+MP004 ;  P004 ;  Don ;  300 ;  2021 ; OK ;  Tang 1 ;  
+MP005 ;  P005 ;  Don ;  300 ;  2022 ; BUSY ;  Tang 1 ; 
+MP008 ;  P008 ;  DOI ;  120 ;  2022 ;  OK ;  TANG 2 ; 
+MP009 ;  P009 ;  DON ;  600 ;  2022 ;  OK ;  TANG 1 ; 
+MP010 ;  MP010 ;  DOI ;  200 ;  2022 ;  OK ;  TANG 5 ; 
+MP011 ;  P011 ;  DOI ;  200 ;  2022 ;  BUSY ;  TANG B1 ; 
+MP012 ;  P012 ;  DON ;  240 ;  2022 ;  BUSY ;  TANG 5 ; 
+MP012 ;  P012 ;  DON ;  200 ;  2022 ;  OK ;  TANG 2 ; 
+MP015 ;  P015 ;  DON ;  200 ;  2022 ;  OK ;  TANG 1 ; 
+ 
